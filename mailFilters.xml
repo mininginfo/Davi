@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001610986062833*6604252735419644900,z0000001610986063038*0305836088595463012,z0000001610986063284*3468166338459452913,z0000001610986175314*7894840333757078288</id>
+	<updated>2021-01-18T16:09:43Z</updated>
+	<author>
+		<name>Ваня Петров</name>
+		<email>emotion.store2017@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001610986062833*6604252735419644900</id>
+		<updated>2021-01-18T16:09:43Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='google'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001610986063038*0305836088595463012</id>
+		<updated>2021-01-18T16:09:43Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='github'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001610986063284*3468166338459452913</id>
+		<updated>2021-01-18T16:09:43Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='netlify'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001610986175314*7894840333757078288</id>
+		<updated>2021-01-18T16:09:43Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='bitbucket'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
